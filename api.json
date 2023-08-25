@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 15,
+        "id": 1,
+        "title": "kitkat",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/1.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 2,
+        "title": "butterfinger",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/2.jpg"
+    },
+    {
+        "precio": 25,
+        "id": 3,
+        "title": "milkyway",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/3.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 4,
+        "title": "crunch",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/4.jpg"
+    },
+    {
+        "precio": 22,
+        "id": 5,
+        "title": "Dove",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/5.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 6,
+        "title": "reeses",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/6.jpg"
+    },
+    {
+        "precio": 15,
+        "id": 7,
+        "title": "Hershey",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/7.jpg"
+    },
+    {
+        "precio": 8,
+        "id": 8,
+        "title": "Lifesaver",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/8.jpg"
+    },
+    {
+        "precio": 2,
+        "id": 9,
+        "title": "m&m's",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/9.jpg"
+    },
+    {
+        "precio": 28,
+        "id": 10,
+        "title": "Twizzlers",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/10.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 11,
+        "title": "Tootsie Roll",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/11.jpg"
+    },
+    {
+        "precio": 30,
+        "id": 12,
+        "title": "Nerds",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/img%20car7/12.jpg"
+    }
+]
